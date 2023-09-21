@@ -1,0 +1,18 @@
+Today's Learning : 21/09/2023
+
+1. Continued the Basic Web creation that yesterday left.
+2. I learnt how to host the website using Github platform and published to public Use.
+3. I learnt some Basic shortcuts in VS code for easy purpose for autosave ad some extensions installed for making code pretty and good look.
+4. I learnt basic HTML tags like p, h1, tables, img, audio and basic default tags.
+5. Created sample webpage using above mentioned tags and rectified the issues and cleared the doubts.
+6. Then we move on to the CSS properties.
+7. CSS properties that we learned is color, background image setup, content alignments, flexible contents.
+8. Created basic webpage using above mentioned elements.
+9. Specific Topics in CSS and HTML that are covered today that how to link HTML an CSS and types of CSS connections.
+10. Mentor created the sample basic web page and hands-on experience and live doubt clear while demonstrations.
+11. Mentor Gave some basic tips and Roadmap to create the webpage, how to create the flow of development.
+12. He gave the solutions to find the issues and gave the way to clear and how to analyse the issues.
+
+TOMORROW's SCHEDULE :
+
+To Create the any popular website clone(UI only/Non-functional).
