@@ -1,1 +1,24 @@
-Today's Learning :
+TODAY'S LEARNING: 20/09/2023 
+
+1.Basic Computer Hardware: Disk, RAM, CPU, Some Software. 
+
+2.Worked on Basic System/Laptop. 
+
+3.We Learnt about how the client and server interactions, we took WhatsApp as a example for the demonstration. 
+
+4.Network Related Contents Like Data Transportation using TCP/UDP, DNS and CDN basics. 
+
+5.GitHub Explanation, Account creation using Kumaran systems mail. 
+
+6.Repository creation and setup git in Visual Studio code. 
+
+7.Basic operations of Git in Visual Studio code like commit, push, repository linking. 
+
+8.Deployed some commit and push for demonstration purpose. Eg. Commit and push text file. 
+
+9.Deploying basic web pages using HTML CSS. 
+
+10.Commit and push in VS code to the GitHub repository. 
+
+11.Doubts cleared in Basic HTML CSS elements. 
+
