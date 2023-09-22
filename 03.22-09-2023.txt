@@ -1,0 +1,19 @@
+Today's Learning:
+
+1. Created the Clone model of one section of Jio portal using of HTML and CSS only.
+2. Created the navigation bar with image, sections and searchbar.
+3. Created cards like Structure for websites details.
+4. Then setup the background images for that card.
+5. asign the colors and format to the navigation bar.
+6. created div for card's text and button.
+7. then align the contents in the actual form.
+8. Then give font size and font family and font weight.
+9. Then Gave gradient effort for the cards and pick the suitable picture for the cards.
+10. Align the heights and widths of the navigation bar and cards sections.
+
+Link from Github host service:
+https://saravanan-sarav.github.io/JioClone/
+
+TOMORROW's SCHEDULE:
+
+Create some more examples for better understand.
