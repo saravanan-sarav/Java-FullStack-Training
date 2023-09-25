@@ -1,0 +1,20 @@
+Today's Learning: 25/09/2023
+
+1. Today I created a full page of Hotstar home page.
+2. In that i included all designs like navigation bar, Home page, advertisement division etc.
+3. I created cards for latest released movies, and sports acivities ny using div tags.
+4. Then i included footer module with the help of footer tag and gav suitable things like original page.
+5. I gave all CSS properties to the file for good appearance, looks like original.
+6. Next, I created new repository in the GitHub with public Access.
+7. I comit and push the full set of code in github.
+8. I publish my website in the github pages and generated the link for that.
+9. I checked all the functionalities and designs are properly arranged or not.
+10. Finally, I Done today's work almost completed.
+
+Hotstar Clone GitHub link:
+
+https://saravanan-sarav.github.io/Hotstar-clone/
+
+TOMORROW's SCHEDULE:
+1. Create Full fedged Website.
+2. Create Responsive web design.
