@@ -1,0 +1,16 @@
+Today's Learning: 26/09/2023
+CSS-BootStrap:
+1. Learnt some concepts in BootStrap Basics
+2. I learnt BootStrap linking with HTML.
+3. Bootstrap Overview like grid, column, layout, Breakpoint.
+4. Created Basic Website using BootStrap with navbar, cards, table like bill and footer.
+
+JavaScript:
+1. Tutor Taught about basic javascript.
+2. I learnt variable declaration, function declaration and function call.
+3. Basic functions like loop, condition, object, arrays.
+4. Main functions like map, reduce, filter, fetch etc.
+5. Demostrated these functions and executed successfully.
+
+TOMORROW's SCHEDULE:
+1. Practice javascript problem and execute.
