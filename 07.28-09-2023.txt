@@ -10,7 +10,7 @@ JavaScript:
     -DOM functions
         -getElementById
         -getElementByTagName
-        -getElementByClassName
+        -getElementByClassName.
     -AddEventListerner
         -click
         -keypress
