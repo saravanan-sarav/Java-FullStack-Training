@@ -1,0 +1,21 @@
+Today's Learning: 27/09/2023
+
+Work Done:
+    -Assigned Phone Book Directory.
+    -Completed 90% on Assigned work.
+
+JavaScript:
+    -Basic Commands.
+    -Declarations.
+    -DOM details.
+    -Basic Arrays of Objects.
+    -Retrival techniques.
+
+BootStrap:
+    - Basic CDN included.
+    - How to find elements.
+    - Find the elements.
+    - Templates design.
+
+TOMORROW's SCHEDULE:
+    - Complete the Assigned work and make publish in GitHub.

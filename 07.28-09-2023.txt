@@ -1,0 +1,29 @@
+Today's Learning: 28/09/2023
+
+Work Done:
+    -Phone Directory Completed.
+    -Assigned E-Commerce website.
+        -Learnt Basic concepts.
+        -Created Login page.
+
+JavaScript:
+    -DOM functions
+        -getElementById
+        -getElementByTagName
+        -getElementByClassName
+    -AddEventListerner
+        -click
+        -keypress
+        -keyup
+        -keydown
+    -In-built Funtions:
+        -Find
+        -Filter
+        -Map
+        -Reduce
+
+TOMORROW's SCHEDULE:
+    -Build a website(E-Commerce website).(Front-End Only).
+
+GitHub Link for Phone Book Directory:
+https://saravanan-sarav.github.io/Phone-Book-Directory/
