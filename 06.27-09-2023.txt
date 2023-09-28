@@ -18,4 +18,4 @@ BootStrap:
     - Templates design.
 
 TOMORROW's SCHEDULE:
-    - Complete the Assigned work and make publish in GitHub.
+    - Complete the Assigned work and make publish in GitHub and publish.
