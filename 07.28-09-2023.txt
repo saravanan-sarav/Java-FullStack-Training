@@ -10,7 +10,7 @@ JavaScript:
     -DOM functions
         -getElementById
         -getElementByTagName
-        -getElementByClassName
+        -getElementByClassName.
     -AddEventListerner
         -click
         -keypress
@@ -20,7 +20,7 @@ JavaScript:
         -Find
         -Filter
         -Map
-        -Reduce
+        -Reduce.
 
 TOMORROW's SCHEDULE:
     -Build a website(E-Commerce website).(Front-End Only).

@@ -16,6 +16,7 @@ BootStrap:
     - How to find elements.
     - Find the elements.
     - Templates design.
+    - demonstrated default webpage.
 
 TOMORROW's SCHEDULE:
-    - Complete the Assigned work and make publish in GitHub and publish.
+    - Complete the Assigned work and make publish in GitHub and publish and get link.
