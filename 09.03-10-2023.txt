@@ -1,0 +1,10 @@
+Today's Learning :03/10/2023
+
+E-Commerce Website: UI Finished and some basic Javascript.
+    -Add to Cart
+    -Add Product
+    -Admin Login
+JavaScript
+    -localStorage Add Data
+    -SessionStorage Add Data
+    -Retrival of data from localStorage.
