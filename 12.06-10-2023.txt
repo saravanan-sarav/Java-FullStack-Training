@@ -1,0 +1,9 @@
+Today's Learning : 06/10/2023
+
+Add to Cart Project 
+    - Assigned
+    - done with some Validations on runtime.
+
+Form Validation Project
+    - Assigned
+    - Validated On runtime with Using addEventListerner Function in JavaScript.
