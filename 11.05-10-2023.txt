@@ -1,0 +1,11 @@
+Today's Learning: 05/10/2023
+
+E-commerce Website:
+    - Completed and Minor Bug Fixed.
+    - Publish to GitHub and fixed Bugs.
+
+JavaScript
+    -Location path references changed.
+
+GitHub
+    -Learnt publish skills and fixing bugs.
