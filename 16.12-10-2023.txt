@@ -1,0 +1,17 @@
+Today's Learning: 12/10/2023
+
+Angular :
+    -Basic fundamentals 
+        -Components
+        -appmodule
+        -service
+        -flow of the Application
+        -details about some angular technical words
+
+Todo Application Using Angular:
+    -File created
+    -Setup Done
+    -UI created
+    -Array Initialized
+    -Domonstrated the array
+    -Display the array in the window.
