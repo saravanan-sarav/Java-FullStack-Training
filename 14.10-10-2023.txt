@@ -1,0 +1,13 @@
+Today's Learning: 10-/10/2023
+
+TypeScript:
+    -array declation
+    -Type 
+    -Interface
+    -Basic Push and edit in array
+
+Todo Application:
+    -UI created
+    -Array Created
+    -Push items
+    -edit the items
