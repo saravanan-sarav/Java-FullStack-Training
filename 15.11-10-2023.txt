@@ -1,0 +1,16 @@
+Today's Learning: 11/10/2023
+
+Angular:
+    -Angular introduction.
+    -Intallation
+    -Basic Necessary packages download
+    -Basic Commands
+    -Basic elements
+    -File Hirrarchy
+
+Todo Application:
+    -UI created
+    -component based UI Created
+    -Add items in array
+    -Push using the framework rules
+    -framework Structure
