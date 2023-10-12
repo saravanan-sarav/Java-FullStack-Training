@@ -1,0 +1,11 @@
+Today's Learning : 09/10/2023
+
+Jquery:
+    - Document Model
+    -Value Assigning 
+    -Data Routing
+    -Basic Informaition and Syntax
+
+TypeScript:
+    -Basic Introduction
+    -Purpose of TypeScript
