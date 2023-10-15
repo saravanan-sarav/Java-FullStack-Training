@@ -1,0 +1,23 @@
+Today's Learning: 13/10/2023
+
+Angular:
+    - Routing
+    - Services
+    - model creation
+    - Array Manupulation
+    - For Loop
+    - Basic ANgular Syntax 
+        - ngModel
+        - click
+        - Two Way Binding
+        - Class Functions and OOPS Base data retrival
+    
+Todo List - ANgular
+    - Edit
+    - Delete
+    - View
+    - Add 
+
+Weekend Assignment: 
+Basic E-Commerce Website with routing Fucntion (Only UI).
+    
