@@ -1,0 +1,22 @@
+Today's Learning: 16/10/2023
+
+Angular:
+    -Routing 
+    -ngModel
+    -FromGroup
+    -onSubmit From.
+    -Form Module
+    -Templete Driven Validation.
+    -Reactive Driven Validation.
+    -Validation Method
+    -ngClass 
+
+E-Commerce Project:
+    - Login Validation
+    - Registration Validation
+    - Routing Using Route Module.
+    - Local Storage to store data
+    - Login credentials
+
+TOMORROW work:
+    - Complete Validation
