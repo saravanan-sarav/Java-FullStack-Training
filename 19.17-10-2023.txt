@@ -1,0 +1,22 @@
+Today's Learning: 17/10/2023
+
+Angular:
+    - HttpClientModule.
+    - fetch Http Json Format.
+    - Navigation Bar Selection
+    - Local Storage Store
+    - Local Storage Retrieve.
+    - Flow of the code From one file to another
+    - Example: Service, Component, Template file Connectivity and communication.
+    - Gaurd file for Athentication
+    - CanActivate module.
+
+E-Commerce Website:
+    - Authentication and UserLogin Validations
+    - Registerd user can Login Using the credentials
+    - Data can't be use if user is not login.
+    - Product Loaded.
+
+TOMORROW's Schedule:
+    - Complete Full Validations and Functionalities.
+    
