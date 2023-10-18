@@ -1,0 +1,14 @@
+Today's Learning: 18/10/2023
+
+Angular:
+    - Fetch Operations.
+    - Fetch Background Frequently.
+    - If changes there need to update the Product in the local storage.
+    - Complete the E-Commerce Application.
+
+E-Commerce Project:
+    - Added Cart Page 
+    - Give Functionality to the Cart Page.
+    - Check Out enabled 
+    - Ordered Page redefined.
+    
