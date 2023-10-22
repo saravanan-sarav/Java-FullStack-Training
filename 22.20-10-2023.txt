@@ -1,0 +1,18 @@
+Today's Learning: 20/10/2023
+
+Java
+    - Introduction.
+    - Itellij JavaProject created.
+    - Loop Structure
+    - conditional Statement
+    - Math Function.
+    - Switch Case.
+Errors Got.
+    - Datatype Range out of Bound.
+    - Array declaration.
+        - Should Delcare in curly braces.
+    - Printing of Array by the array name.
+        - It print the address of the particular Array.
+    
+        
+        
