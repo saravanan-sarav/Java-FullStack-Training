@@ -1,0 +1,12 @@
+Today's Learning : 19/10/2023
+
+Angular:
+    - Completed the project.
+    - Created Github Pages.
+    - Learnt How to publish the angular projrct in github pages.
+    - Created the Landing page for ECommerce website and UserDetail DataBase.
+    - Then fixed some bugs in that and Arrange neccesary things for that.
+    - created dist file using build command for hosting the project.
+
+Project:
+    - Complete the project and Successfully hosted.
