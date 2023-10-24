@@ -1,0 +1,20 @@
+Today's Learning : 24/10/2023
+
+Java:
+    - Class
+    - Method Declartion.
+    - Object Creation.
+    - Method OverLoading
+    - Method Overriding
+    - Upcasting -> Parent to Child Class
+    - Downcasting -> Child to Parent Class
+    - Costructor -> Declare using Class Name
+    - Interface 
+    - Abstraction -> SImilar to Interface with Soem extra advantanges.
+    - Inheritance -> Usig Extends Keyword
+    - Upcasting and Downcasting of class.
+    - Treads Basics
+    - Collections -> ArrayList
+    - Exception Handling -> Try catch Block
+
+
