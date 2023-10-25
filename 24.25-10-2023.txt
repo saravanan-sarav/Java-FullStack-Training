@@ -1,0 +1,34 @@
+Today's Learning: 25/10/2023
+
+Java
+    - Collections
+        - ArrayList
+        - HashSet
+            - LinkedHashSet
+        - TreeSet
+        - Set
+        - Map
+            - HashMap
+    - Threads
+        - Basic Treads
+        - Deadlock Scenarios
+    - Unit Testing:
+        - Annotations
+            - BeforeAll
+            - BeforeEach
+            - Test
+            - Disabled
+            - NameSetting
+        - Assetions
+            - equals
+            - Checks 
+            - Results
+
+
+Basic Tasks In Java:
+    - Array Manupulation.
+    - Subset Finder
+    - Vowels printing
+    - Vowels Removing
+    - Prime Number
+    - Fibanocci
