@@ -1,0 +1,22 @@
+Today's Learning: 27/10/2023
+
+Java
+    - File Writer 
+    - CSV File Handling
+    - Text File Handling.
+
+Java-Shopping Project
+    - Learnt Cart page 
+        - Add to Cart
+        - increase count if already exists
+        - Add to User Cart
+    - Order page
+        - Check Out the Cart
+        - Generated txt file of Products
+        - List the Orders of the Projects.
+        - List the orders.
+    - Product Add:
+        - Add Product to the category
+        - View category listed
+        - View products present in category.
+        
