@@ -1,0 +1,33 @@
+Today's Learning: 31/10/2023
+Java 8 concepts 
+    - Difference between java 8 and other java versions.
+    - Generics 
+        - It is represented using "T".
+    - Functional interface 
+        - Consumer 
+        - BiConsumer 
+        - Predicate 
+        - BiPredicate 
+        - Function 
+        - BiFunction 
+    - Threads 
+        - Implementing threads using runnable.
+        - Implementing threads using thread class.
+    - Anonymous function / Arrow function.
+    - Stream 
+        - Intermediate Operators - It returns stream and does not provide end result.
+            - Filter()
+            - Map()
+                - FlatMap()
+            - Distinct() 
+            - Sorted()
+        - Terminal Operators - It does not return stream but provides end result.
+            - Count() 
+            - Collect()
+            - Min()
+            - Max()
+    - Arrays 
+    - Collections 
+        - List
+        - MapList
+        - LinkedList
