@@ -1,0 +1,29 @@
+Today's Learning : 03/10/2023
+
+
+JSP & JDBC concepts
+    - JDBC connection 
+    - JDBC Driver
+    - JDBC PreparedStatement 
+    - JDBC setString, getString
+    - JDBC ResultSet 
+    - JDBC executeQuery(), executeUpdate();
+
+Task 
+    - To create a web application using JSP 
+        - Login 
+        - Register 
+        - Add Item 
+        - Remove Item 
+        - Edit Item 
+    - To build a java console application with JDBC for E-Commerce
+        -Login for user and admin
+        -Register for user 
+        -Products 
+        -Cart 
+        -Orders 
+        -Logout 
+        -Add/Edit/Remove Products
+
+Store and access data from database.
+Use Model, View and Controller architecture.
