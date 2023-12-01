@@ -1,0 +1,23 @@
+Today's Learning :  15/11/2023
+
+Work Done:
+    - Database Model Created
+    - Database integration
+    - Initial setup Completed.
+    - Flow of project and created required architecture
+
+DataLoader Initiated
+    - Initial Data Loader setup
+    - Created required Method for respective dataLoader Class.
+    - configuration of user Name and password is done.
+
+
+FrontEnd Works:
+    - Created Login form for login and write API call for login 
+    - Established the secure login Using auth Controller.
+
+BackEnd Works:
+    - Login Validation
+    - Parent and Student post method for apply form.
+    - Teacher Add by Admin.
+    - Assignment Add by Teacher.
