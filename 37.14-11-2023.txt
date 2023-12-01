@@ -1,0 +1,35 @@
+Today's Learning : 14/11/2023
+Project Started:
+
+Project Name : SCHOOL MANAGEMENT SYSTEM:
+
+    - Started with backend part of the project. 
+        - Models 
+            - AppUser (Admin, Teacher,Student,Parent)
+            - Teacher 
+            - Student 
+            - Parent 
+            - Address 
+            - Classroom
+            - Assignment
+            - Standard
+            - AssignmentType
+            - AssignmentGrade
+            - StudentStatus
+            - AttendanceRegister
+            - Subject
+            - Role
+        
+        - Controller
+            - AdminController
+            - TeacherController
+            - StudentController
+            - Parent Controller
+            - AssignmentController
+            - Attendance Controller
+        - Request and Response Model
+        - Security configuration 
+        - Exception 
+        - Service 
+        - DTO 
+        - Data loader 
