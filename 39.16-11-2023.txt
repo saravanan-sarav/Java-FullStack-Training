@@ -1,0 +1,25 @@
+Today's Learning: 16/11/2023
+
+Project Work:
+    - Created API calls for get/post for adding details and DB and return the response.
+    - Test API calls in postman api testing application.
+    - Add assigment
+    - Classroom create
+    - assignment create
+
+FrontEnd Work:
+    - Created Admin side Works
+        - Student List
+        - teacher List
+        - AssignmentLink 
+        - Attendance List
+        - Parent List
+
+BackEnd Work:
+    - Test the API and link the angular to SprinBoot
+        - Created Response format for all StudentList
+        - parent response create
+        - assignment response create
+        - attendance response create
+        - parent response create
+    - fetch the data from and frontend and diaplayed the content in the frontend.
