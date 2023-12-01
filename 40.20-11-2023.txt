@@ -1,0 +1,21 @@
+Today's Learning : 20/11/2023
+
+Project Work:
+    - Admin side Classroom Created
+    - List the classRoom and added validations
+    - Show the classroom in table based on requirements
+
+FrontEnd Work:
+    - Admin add classRoom
+    - List the classStandard List
+    - List the teacher based on the Subject
+    - AutoLoad the data in the field of the class teacher.
+    - Form Validations completed.
+
+BackEnd Work:
+    - Create Classroom Request
+    - Create Classroom response after created.
+    - Create Admin side classroom details.
+    - Create teacher Side the classroom detail.
+
+    
