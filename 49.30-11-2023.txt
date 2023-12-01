@@ -1,0 +1,13 @@
+Today's Learning: 30/11/2023
+
+Project Work:
+    - Create Student side data loading
+
+FrontEnd Works:
+    - Create template for student assigment list with some Validations
+    - Create details review about the student data.
+
+BackEnd Work:
+    - get details of assigment based on student requirements
+    - Get details based on the attendance
+    - Tuned the UI something in respective manner.
