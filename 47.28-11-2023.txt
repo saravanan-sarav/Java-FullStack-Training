@@ -1,0 +1,15 @@
+Today's Learning: 28/11/2023
+
+Project Work:
+    - Student Side Works
+
+FrontEnd Work:
+    - create the components for list the student personal data
+    - create template for the student parent detail viewing.
+    - load the data using two way binding.
+
+BackEnd Work:
+    - Create Response for the for profile loading
+    - Create API request for get personal details.
+    - Create API request for get parent details.
+    
