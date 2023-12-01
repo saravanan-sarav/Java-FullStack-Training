@@ -1,0 +1,14 @@
+Today's Learning: 23/11/2023
+
+Project Work:
+    - Student side attendance Publish Using full Calender template
+
+frontend Work:
+    - install the full Calender module for showing the attendance.
+    - Import required Module for the basic operations.
+    - created tags and required form of data in calender event.
+
+BackEnd Work:
+    - create attendance data for student 
+    - Validation done for listing the data
+    - Show the content based on the acctivites.
