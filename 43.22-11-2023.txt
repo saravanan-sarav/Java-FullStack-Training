@@ -1,0 +1,15 @@
+Today's Learning : 22/11/2023
+
+Project Work:
+    - Attendance for Student
+        - Mark attendance by student
+
+FrontEnd Work:
+    - Create attendance entry table in teacher side
+    - list the student list of particular class
+    - Mark attendance with some validations.
+
+BackEnd Work:
+    - Create student List with date for attendance validation.
+    - create response for the attendance mark and update the entry in Database.
+    - Show the marked attendance in the data.
