@@ -1,0 +1,17 @@
+Today's Learning : 22/11/2023
+
+Project Work:
+    - Completed Teacher Grade system for particular Student
+    - Add the assignment Grade to the particular student and publish the comments.
+    - Publish the assignment data to the parent and student
+
+FrontEnd Work:
+    - Create the UI for create assignment in teacher side.
+    - Create template for entry mark for student.
+    - Made the UI little intractive and data load.
+    - Did some validations in the field of button and mark entry.
+
+BackEnd Work:
+    - Create Assignment request.
+    - Create Assignment Response.
+    - create Assignement response for teacher and student and assigment.
