@@ -1,0 +1,10 @@
+Today's Learning: 28/11/2023
+
+Project Work:
+    - Created all form validations
+
+FrontEnd Work: 
+    - Create template driven form validations for all fields 
+
+BackEnd Work:
+    - send the requested data from frontend to the backend.
