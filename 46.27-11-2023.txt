@@ -1,0 +1,16 @@
+Today's Learning: 27/11/2023
+
+Project Work:
+    - Teacher Profile upload
+    - Admin Student Approve
+
+FrontEnd Work:
+    - Teacher profile loading
+    - Teacher Profile template Manupulating
+    - Validate the response and upload the data.
+
+backend Work:
+    - Create teacher profile response 
+    - create request for profile viewing.
+    - Validate the response and moved to the respective fields.
+    
