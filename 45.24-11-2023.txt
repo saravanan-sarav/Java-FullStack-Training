@@ -1,0 +1,14 @@
+Today's Learning : 24/11/2023
+
+Project Work:
+    - Created Navbar and Side bar for all respective Login.
+
+FrontEnd Work:
+    - Created customised navbar for the student.
+    - Navbar for teacher.
+    - Navbar for Parent.
+    - Navabar for Admin.
+    - Done respective routing for the respective field.
+
+BackEnd Work:
+    - Created response for data loading and loging Authentication and redirecting Works
