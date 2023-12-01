@@ -1,0 +1,16 @@
+Today's Learning : 17/11/2023
+
+Project Work: 
+    - Assignment Created from teacher end
+    - List the created assignment in teacher Login.
+    - List the all assignment in admin form.
+
+FrontEnd Work:
+    - create the table view for assignment
+    - table of asignment created in teacher side
+    - table is listed in assignment.
+
+BackEnd Work:
+    - Generate assignment and created
+    - Create response for respective roles and displayed.
+    - Create Request for add assignment
