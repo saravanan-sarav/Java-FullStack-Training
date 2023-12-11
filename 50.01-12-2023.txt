@@ -1,0 +1,19 @@
+Today's Learning: 01/12/2023
+
+Struts:
+
+Struts consists of a set of own custom tag libraries. Struts are based on
+MVC framework which is pattern oriented and includes JSP custom tag libraries. 
+Struts also supports utility classes.
+ 
+ 
+Lazy Loading:
+     Lazy loading helps to keep the bundle size small, which helps reduce load times. 
+     We must use the class decorator to create an Angular module @NgModule, and 
+     the decorator uses a metadata object that defines the module.
+      import: Components of this module are used with Array with other modules.
+ 
+ 
+Custom Validation:
+  it is used to write a method to validate a particular field or we can apply for 
+  any number of input
